@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@formulajs/formulajs": "^4.4.3",
     "xlsx": "^0.18.5",
     "xlsx-calc": "^0.8.0"
   }
